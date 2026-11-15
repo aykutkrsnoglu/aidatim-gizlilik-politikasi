@@ -1,1 +1,124 @@
-# aidatim-gizlilik-politikasi
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="AİDATIM mobil uygulaması gizlilik politikası.">
+<title>AİDATIM - Gizlilik Politikası</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    max-width: 850px;
+    margin: 40px auto;
+    padding: 20px;
+    line-height: 1.7;
+    color: #263445;
+    background: #f5f7fa;
+}
+main {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+}
+h1, h2 { color: #173b68; }
+h1 { font-size: 27px; }
+p { margin-bottom: 15px; }
+a { color: #1769aa; }
+footer {
+    margin-top: 30px;
+    font-size: 13px;
+    color: #777;
+}
+</style>
+</head>
+<body>
+<main>
+
+<h1>AİDATIM Gizlilik Politikası</h1>
+
+<p><strong>Son güncelleme:</strong> 15 Kasım 2026</p>
+
+<p>
+Bu Gizlilik Politikası, AİDATIM mobil uygulamasını kullanan
+kişilerin bilgilerinin nasıl işlendiğini açıklamaktadır.
+</p>
+
+<h2>1. Toplanan ve Saklanan Bilgiler</h2>
+
+<p>
+AİDATIM; bina, daire, sakin, ad soyad, telefon numarası,
+e-posta adresi, aidat, tahsilat, gelir, gider, bakım ve
+yönetim kayıtlarının kullanıcı tarafından girilmesine
+imkân sağlar.
+</p>
+
+<h2>2. Verilerin Saklanması</h2>
+
+<p>
+Uygulamanın mevcut sürümünde kullanıcı tarafından girilen
+kayıtlar cihazın yerel depolama alanında saklanır.
+Mevcut uygulama sürümünde Firebase, bulut eşitlemesi
+ve kullanıcı hesabı sistemi etkin değildir.
+</p>
+
+<h2>3. Verilerin Paylaşılması</h2>
+
+<p>
+Uygulama, kayıtları otomatik olarak bir sunucuya göndermez.
+Kullanıcı kendi isteğiyle dışa aktardığı veya paylaştığı
+dosyaların güvenliğinden sorumludur.
+</p>
+
+<h2>4. Verilerin Silinmesi</h2>
+
+<p>
+Kullanıcı, uygulama içerisindeki silme ve sıfırlama
+işlevlerini kullanarak yerel kayıtlarını silebilir.
+Uygulamanın kaldırılması da cihazdaki uygulama verilerinin
+silinmesine neden olabilir.
+</p>
+
+<h2>5. Veri Güvenliği</h2>
+
+<p>
+Kullanıcıların cihazlarında saklanan verilerin korunması
+için cihaz güvenliğinin sağlanması ve cihazın başkalarıyla
+paylaşılırken dikkatli olunması önerilir.
+</p>
+
+<h2>6. Çocukların Gizliliği</h2>
+
+<p>
+AİDATIM çocuklara yönelik bir uygulama değildir.
+</p>
+
+<h2>7. Gizlilik Politikası Değişiklikleri</h2>
+
+<p>
+Bu politika gerektiğinde güncellenebilir. Güncel politika
+bu sayfa üzerinden yayımlanır.
+</p>
+
+<h2>8. İletişim</h2>
+
+<p>
+Gizlilik politikası ve kişisel verilerle ilgili sorularınız
+için bizimle iletişime geçebilirsiniz.
+</p>
+
+<p>
+<strong>Uygulama:</strong> AİDATIM<br>
+<strong>E-posta:</strong>
+<a href="mailto:aykutkrsnoglu@gmail.com">
+aykutkrsnoglu@gmail.com
+</a>
+</p>
+
+<footer>
+© 2026 AİDATIM - Tüm hakları saklıdır.
+</footer>
+
+</main>
+</body>
+</html>
