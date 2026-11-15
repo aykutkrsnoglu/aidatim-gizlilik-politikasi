@@ -1,0 +1,1 @@
+# aidatim-gizlilik-politikasi
